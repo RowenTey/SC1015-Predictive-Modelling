@@ -1,0 +1,11 @@
+To find out more about the data, copy and paste the description below into Google
+
+CPI = Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+IR = 10-Year Breakeven Inflation Rate
+UNRATE = Unemployment Rate
+GDP = Gross Domestic Product
+SP500 = S&P500
+OP = Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma
+AE = Average Hourly Earnings of All Employees, Total Private
+EPI = Export Price Index (End Use): All Commodities
+IRDR = Interest Rates, Discount Rate for United States
