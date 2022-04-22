@@ -11,6 +11,7 @@ SC14-Group 1: Kai Seong, Horstann & Julian
 - [Machine Learning](#machine-learning)
 - [Insights of Data & Conclusion](#insights-of-data--conclusion)
 - [Closing Remarks](#closing-remarks)
+- [References](#references)
 
 # Welcome Message
 
@@ -33,3 +34,8 @@ SC14-Group 1: Kai Seong, Horstann & Julian
 # Insights of Data & Conclusion
 
 # Closing Remarks
+
+# References
+SP500 Data - https://stooq.com/q/d/?s=%5Espx&c=0&i=m   
+LSTM Model - https://thinkingneuron.com/predicting-stock-prices-using-deep-learning-lstm-model-in-python/   
+FRED API - https://fred.stlouisfed.org/docs/api/fred/
