@@ -38,5 +38,5 @@ SC14-Group 1: Kai Seong, Horstann & Julian
 # References
 SP500 Data - https://stooq.com/q/d/?s=%5Espx&c=0&i=m   
 LSTM Model - https://thinkingneuron.com/predicting-stock-prices-using-deep-learning-lstm-model-in-python/   
-FRED API - https://fred.stlouisfed.org/docs/api/fred/
+FRED API - https://fred.stlouisfed.org/docs/api/fred/   
 De-Trending - https://www.svds.com/avoiding-common-mistakes-with-time-series/
