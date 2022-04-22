@@ -1,43 +1,38 @@
-# SC1015 DSAI Mini-Project AY2021-22
+# Stock Prediction Analysis
 
-SC14-Group 1: Kai Seong, Horstann & Julian
+## About
 
-# Table of Contents
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We focused on making predictions on black's first move, based on a chess game dataset containing over 20,000 chess games from LiChess, and can be found [here](https://www.kaggle.com/datasnaek/chess).
 
-- [Welcome Message](#welcome-message)
-- [Question/Problem Definition](#questionproblem-definition)
-- [Dataset Selection & Preparation](#dataset-selection--preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Machine Learning](#machine-learning)
-- [Insights of Data & Conclusion](#insights-of-data--conclusion)
-- [Closing Remarks](#closing-remarks)
-- [References](#references)
+## Problem Statement
+Given the following constraints:
+- White's first move
+- White and Black's chess ratings
+- Rating difference
+- Number of turns taken
 
-# Welcome Message
+What are the next five most probable moves for black?
 
-<!-- # Team 6 Members
+## Notebook Order
+The flow of our project is as follows:
+1. Initial exploratory data analysis (EDA), found under [Pre Model Analysis.ipynb](https://github.com/Junius00/chess-predictions/blob/master/Pre%20Model%20Analysis.ipynb)
+2. Data preparation and modelling, found under [MLR Model.ipynb](https://github.com/Junius00/chess-predictions/blob/master/MLR%20Model.ipynb)
+3. Post model analysis and graphing, found under [Post Model.ipynb](https://github.com/Junius00/chess-predictions/blob/master/Post%20Model.ipynb)
 
-| Name                 |              Area of Focus               |GitHub Acount|
-|----------------------|:----------------------------------------:|---|
-| Eddy Cheng Kuan Quan | Video Presentation, Kaggle Dataset, EDA  |@eddy-ckq|
-| Koh Yue Zhong        | Google Slides, SG Economy Research, EDA  |@yuezhonggg|
-| Lee Wei Jie Bryan    | Machine Learning, GitHub Repository, EDA |@BLTech-py| -->
+## Models Used
 
-# Question/Problem Definition
+1. Multinomial Logistic Regression
 
-# Dataset Selection & Preparation
+## Conclusion
 
-# Exploratory Data Analysis
+- The model attains a final evaluative score of 22.5/100 on average.
+- Although the model may not be able to accurately predict the next black move, it is able gives a possible idea of the move.
+- Chess games that are played by humans are still largely unpredictable.
+- Perhaps the model should not be used to attempt to accurately predict black’s first move; rather, to see what other players would do in the same situation.
 
-# Machine Learning
+## What did we learn from this project?
 
-# Insights of Data & Conclusion
-
-# Closing Remarks
-
-# References
-SP500 Data - https://stooq.com/q/d/?s=%5Espx&c=0&i=m   
-LSTM Model - https://thinkingneuron.com/predicting-stock-prices-using-deep-learning-lstm-model-in-python/   
-FRED API - https://fred.stlouisfed.org/docs/api/fred/   
-De-Trending - https://www.svds.com/avoiding-common-mistakes-with-time-series/   
-Hypothesis Testing - https://www.statisticshowto.com/welchs-test-for-unequal-variances/ & https://www.statology.org/welch-t-test-python/   
+- Transformation of DataFrames in Pandas (e.g., conversion of categorical to numeric values)
+- Using MLR modelling
+- 3D graphing techniques
+- How to use GitHub
