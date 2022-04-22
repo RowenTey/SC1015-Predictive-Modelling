@@ -1,6 +1,6 @@
 # SC1015:DSAI Mini-Project AY2021-22
 
-SC14: Kai Seong, Horstann & Julian
+SC14-Group 1: Kai Seong, Horstann & Julian
 
 # Table of Contents
 
