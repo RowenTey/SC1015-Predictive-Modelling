@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence). We focused on making predictions on black's first move, based on a chess game dataset containing over 20,000 chess games from LiChess, and can be found [here](https://www.kaggle.com/datasnaek/chess).
+This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module (Introduction to Data Science and Artificial Intelligence). We focused on making predictions on black's first move, based on a chess game dataset containing over 20,000 chess games from LiChess, and can be found [here](https://www.kaggle.com/datasnaek/chess).
 
 ## Problem Statement
 Given the following constraints:
@@ -21,7 +21,8 @@ The flow of our project is as follows:
 
 ## Models Used
 
-1. Multinomial Logistic Regression
+1. Long short-term memory (LSTM)
+2. Polynomial regression 
 
 ## Conclusion
 
