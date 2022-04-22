@@ -39,4 +39,5 @@ SC14-Group 1: Kai Seong, Horstann & Julian
 SP500 Data - https://stooq.com/q/d/?s=%5Espx&c=0&i=m   
 LSTM Model - https://thinkingneuron.com/predicting-stock-prices-using-deep-learning-lstm-model-in-python/   
 FRED API - https://fred.stlouisfed.org/docs/api/fred/   
-De-Trending - https://www.svds.com/avoiding-common-mistakes-with-time-series/
+De-Trending - https://www.svds.com/avoiding-common-mistakes-with-time-series/   
+Hypothesis Testing - https://www.statisticshowto.com/welchs-test-for-unequal-variances/ & https://www.statology.org/welch-t-test-python/   
