@@ -2,7 +2,7 @@
 
 ## About
 
-This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module (Introduction to Data Science and Artificial Intelligence). We focused on making predictions on black's first move, based on a chess game dataset containing over 20,000 chess games from LiChess, and can be found [here](https://www.kaggle.com/datasnaek/chess).
+This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module (Introduction to Data Science and Artificial Intelligence). We chose to explore several popular machine learning models to test their reliability in predicting stock prices. 
 
 ## Problem Statement
 Given the following constraints:
@@ -13,16 +13,17 @@ Given the following constraints:
 
 What are the next five most probable moves for black?
 
-## Notebook Order
+## Where to Start
 The flow of our project is as follows:
-1. Initial exploratory data analysis (EDA), found under [Pre Model Analysis.ipynb](https://github.com/Junius00/chess-predictions/blob/master/Pre%20Model%20Analysis.ipynb)
-2. Data preparation and modelling, found under [MLR Model.ipynb](https://github.com/Junius00/chess-predictions/blob/master/MLR%20Model.ipynb)
-3. Post model analysis and graphing, found under [Post Model.ipynb](https://github.com/Junius00/chess-predictions/blob/master/Post%20Model.ipynb)
+1. Data Sampling, Preparation, Exploratory Data Analysis and Analyitic Visualisation, found in [Pre-Model.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Pre-Model.ipynb)
+2. Data Modelling for Multiple Polynomial Regression, found in [Polynomial Regression.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Polynomial%20Regression.ipynb)
+3. Data Modelling for Long Short Term Memory (LSTM), found in [LSTM.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/LSTM.ipynb)
+4. Post Model Analysis, Statistical Inference and Intelligent Decision found in [Post-Model.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Post-Model.ipynb)
 
 ## Models Used
 
 1. Long short-term memory (LSTM)
-2. Polynomial regression 
+2. Multiple polynomial regression 
 
 ## Conclusion
 
@@ -37,3 +38,7 @@ The flow of our project is as follows:
 - Using MLR modelling
 - 3D graphing techniques
 - How to use GitHub
+
+## References
+
+- 
