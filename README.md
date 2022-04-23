@@ -1,17 +1,15 @@
-# Stock Prediction Analysis - SC14 Group 1
+# Stock Price Prediction using Economic Indicators - SC14 Group 1
 
 ## About
 
 This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module (Introduction to Data Science and Artificial Intelligence). We chose to explore several popular machine learning models to test their reliability in predicting stock prices. 
 
 ## Problem Statement
-Given the following constraints:
-- White's first move
-- White and Black's chess ratings
-- Rating difference
-- Number of turns taken
+Current state of the art:
+- extremely complex predictive models (e.g. LSTM) are popularly used to predict stock prices
+- many financial firms and organisations rely on these models for risk management and profit maximisation
 
-What are the next five most probable moves for black?
+Can we produce more reliable predictions using alternative models?
 
 ## The Team 
 | Name              |                     Area of Focus                     |GitHub Acount|
