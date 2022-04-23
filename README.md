@@ -3,6 +3,9 @@
 ## About
 
 This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module (Introduction to Data Science and Artificial Intelligence). We chose to explore different machine learning models to test their reliability in predicting stock prices. 
+<br>
+<br>
+We would also like to thank our TA Song Nan for her constant guidance and encouragement throughout the project and this project would not have been possible without her valuable feedback and expertise in the field of Data Science.
 
 ## Problem Statement
 Current state of the art:
