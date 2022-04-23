@@ -1,4 +1,4 @@
-# Stock Price Prediction using Economic Indicators - SC14 Group 1
+# Predictive Modelling with Economic Indicators - SC14 Group 1
 
 ## About
 
