@@ -25,7 +25,7 @@ The flow of our project is as follows:
 1. Data Sampling, Preparation, Exploratory Data Analysis and Analyitic Visualisation, found in [Pre-Model.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Pre-Model.ipynb)
 2. Data Modelling for Multiple Polynomial Regression, found in [Polynomial Regression.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Polynomial%20Regression.ipynb)
 3. Data Modelling for Long Short Term Memory (LSTM), found in [LSTM.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/LSTM.ipynb)
-4. Post Model Analysis, Statistical Inference and Intelligent Decision found in [Post-Model.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Post-Model.ipynb)
+4. Post Model Analysis, Statistical Inference and Intelligent Decision, found in [Post-Model.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Post-Model.ipynb)
 
 ## Models Used
 
