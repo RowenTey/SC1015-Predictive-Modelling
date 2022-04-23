@@ -1,4 +1,4 @@
-# Stock Prediction Analysis
+# Stock Prediction Analysis - SC14 Group 1
 
 ## About
 
@@ -12,6 +12,13 @@ Given the following constraints:
 - Number of turns taken
 
 What are the next five most probable moves for black?
+
+## The Team 
+| Name              |                     Area of Focus                     |GitHub Acount|
+|---|:---:|---|
+| Tey Kai Seong |        Data Preparation, EDA, Presentation Slides, GitHub Repository        |@RowenTey|
+| Horstann Ho Rui Yao  |     Machine Learning, EDA, Problem Definition, Statistical Inference     |@Horstann|
+| Julian Wong Wei Sheng |       Data Preparation, EDA, Video Presentation,  Analytic Visualisation        |@DarkDestiny26|
 
 ## Where to Start
 The flow of our project is as follows:
