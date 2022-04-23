@@ -2,14 +2,14 @@
 
 ## About
 
-This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module (Introduction to Data Science and Artificial Intelligence). We chose to explore different machine learning models to test their reliability in predicting stock prices. 
+This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module (Introduction to Data Science and Artificial Intelligence). We chose to explore different machine learning models to test their reliability in predicting stock market prices. 
 <br>
 <br>
 We would also like to thank our teaching assistant Song Nan for her constant guidance and encouragement throughout the project. This project would not have been possible without her valuable feedback and expertise in the field of Data Science.
 
 ## Problem Statement
 Current state of the art:
-- extremely complex predictive models (e.g. LSTM) are popularly used to predict stock prices
+- extremely complex predictive models (e.g. LSTM) are popularly used to predict portfolio performance
 - many financial firms and organisations rely on these models for risk management and profit maximisation
 
 Are these models really reliable? Do they have any weaknesses?
@@ -40,7 +40,7 @@ The flow of our project is as follows:
 
 - Our regression model's mean-square-error was 64.6% less than the LSTM's on average.
 - Based on our MSE samples, our regression model ourperformed LSTM at a staggering 99% confidence level.
-- From these results, we see that economic indicators are a better indicator of stock price than past trends.
+- From these results, we see that economic indicators are a better indicator of stock market price than past trends.
 - We recommend developing a model that takes both current economic indicators and past trends as predictors for even better results.
 
 ## What did we learn from this project?
@@ -48,7 +48,7 @@ The flow of our project is as follows:
 - Completely unrelated time series data can have very strong correlations if they have similar trends, so it's important to de-trend
 - Using plotly as a tool for interactive visualisations
 - Handling LSTM & multiple polynomial regression models
-- The relationships between economic indicators and stock price, alongside their volatility
+- The relationships between economic indicators and stock market behaviours, alongside their volatility
 - How to use GitHub
 - Use simpler models whenever possible. They consume less time and resources, so we are able to run more tests on the model e.g. in our case, we could run 1000 regressions in less than 15sec, but 20 LSTMs already took 20-30min. Being able to run more tests allows us to better assess and refine the model e.g. our good old regression ended up outperforming LSTM by a large margin.
 
