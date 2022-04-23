@@ -20,7 +20,7 @@ What are the next five most probable moves for black?
 | Horstann Ho Rui Yao  |     Machine Learning, EDA, Problem Definition, Statistical Inference     |@Horstann|
 | Julian Wong Wei Sheng |       Data Preparation, EDA, Video Presentation,  Analytic Visualisation        |@DarkDestiny26|
 
-## Where to Start
+## How to Start
 The flow of our project is as follows:
 1. Data Sampling, Preparation, Exploratory Data Analysis and Analyitic Visualisation, found in [Pre-Model.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Pre-Model.ipynb)
 2. Data Modelling for Multiple Polynomial Regression, found in [Polynomial Regression.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Polynomial%20Regression.ipynb)
@@ -35,16 +35,16 @@ The flow of our project is as follows:
 
 ## Conclusion
 
-- The model attains a final evaluative score of 22.5/100 on average.
-- Although the model may not be able to accurately predict the next black move, it is able gives a possible idea of the move.
-- Chess games that are played by humans are still largely unpredictable.
-- Perhaps the model should not be used to attempt to accurately predict black’s first move; rather, to see what other players would do in the same situation.
+- Our regression model's mean-square-error was 64.6% less than the LSTM's on average.
+- Based on our MSE samples, our regression model ourperformed LSTM at a staggering 99% confidence level.
+- From these results, we see that economic indicators are a better indicator of stock price than past trends.
+- We recommend developing a model that takes both current economic indicators and past trends as predictors for even better results.
 
 ## What did we learn from this project?
 
-- Transformation of DataFrames in Pandas (e.g., conversion of categorical to numeric values)
-- Using MLR modelling
-- 3D graphing techniques
+- Completely unrelated time series data can have very strong correlations if they have similar trends, so it's important to detrend
+- Using plotly as a tool for interactive visualisations
+- Handling LSTM & multiple polynomial regression models
 - How to use GitHub
 
 ## References
