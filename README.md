@@ -49,7 +49,7 @@ The flow of our project is as follows:
 - Handling LSTM & multiple polynomial regression models
 - The relationships between economic indicators and stock price, alongside their volatility
 - How to use GitHub
-- Use simpler models whenever possible. They consume less time and resources, so we are able to run more tests on the model e.g. in our case, we could run 1000 regressions in less than 15sec, but 20 LSTMs would already take 20-30min. Being able to run more tests allows us to better assess and refine model e.g. our good old regression ended up outperforming LSTM by a large margin.
+- Use simpler models whenever possible. They consume less time and resources, so we are able to run more tests on the model e.g. in our case, we could run 1000 regressions in less than 15sec, but 20 LSTMs already took 20-30min. Being able to run more tests allows us to better assess and refine the model e.g. our good old regression ended up outperforming LSTM by a large margin.
 
 ## References
 
