@@ -44,6 +44,7 @@ The flow of our project is as follows:
 - Completely unrelated time series data can have very strong correlations if they have similar trends, so it's important to detrend
 - Using plotly as a tool for interactive visualisations
 - Handling LSTM & multiple polynomial regression models
+- The relationships between economic indicators and stock price, alongside their volatility
 - How to use GitHub
 
 ## References
