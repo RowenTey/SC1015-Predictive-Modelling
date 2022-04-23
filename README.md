@@ -9,6 +9,7 @@ Current state of the art:
 - extremely complex predictive models (e.g. LSTM) are popularly used to predict stock prices
 - many financial firms and organisations rely on these models for risk management and profit maximisation
 
+Are these models really reliable? Do they have any weaknesses?
 Can we produce more reliable predictions using alternative models?
 
 ## The Team 
