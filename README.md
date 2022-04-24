@@ -1,7 +1,5 @@
 # Predictive Modelling with Economic Indicators - SC14 Group 1
 
-![image]()
-
 ## 🚀 About
 
 This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module *(Introduction to Data Science and Artificial Intelligence)*. We chose to explore different machine learning models to test their reliability in predicting stock market prices. 
