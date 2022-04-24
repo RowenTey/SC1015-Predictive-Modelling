@@ -29,7 +29,7 @@ The flow of our project is as follows:
 3. Data Modelling for Long Short-Term Memory (LSTM), found in [LSTM.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/LSTM.ipynb)
 4. Post Model Analysis, Statistical Inference and Intelligent Decision, found in [Post-Model.ipynb](https://github.com/RowenTey/sc1015-project/blob/main/Post-Model.ipynb)
 5. Results of our project, found in [results/](https://github.com/RowenTey/sc1015-project/tree/main/results)
-6. [outputs/](https://github.com/RowenTey/sc1015-project/tree/main/outputs) are temporary output files and [SC1015MiniProjectSC14Grp1.pptx](https://github.com/RowenTey/sc1015-project/blob/main/SC1015MiniProjectSC14Grp1.pptx) contains our slides
+6. [outputs/](https://github.com/RowenTey/sc1015-project/tree/main/outputs) are temporary output files
 
 ## 🤖 Models Used
 
