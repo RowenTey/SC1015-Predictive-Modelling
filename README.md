@@ -1,11 +1,13 @@
 # Predictive Modelling with Economic Indicators - SC14 Group 1
 
+![image]()
+
 ## 🚀 About
 
 This is a Mini-Project for Nanyang Technological University Singapore's SC1015 module *(Introduction to Data Science and Artificial Intelligence)*. We chose to explore different machine learning models to test their reliability in predicting stock market prices. 
 <br>
 <br>
-We would also like to thank our teaching assistant Song Nan for her constant guidance and encouragement throughout the project. This project would not have been possible without her valuable feedback and expertise in the field of Data Science.
+We would also like to thank our teaching assistant **Song Nan** for her constant guidance and encouragement throughout the project. This project would not have been possible without her valuable feedback and expertise in the field of Data Science.
 
 ## 📈 Problem Statement
 Current state of the art:
@@ -38,9 +40,9 @@ The flow of our project is as follows:
 
 ## 💥 Conclusion
 
-- Our regression model's mean-square-error was 64.6% less than the LSTM's on average.
-- Based on our MSE samples, our regression model ourperformed LSTM at a staggering 99% confidence level.
-- From these results, we see that economic indicators are a better indicator of stock market price than past trends.
+- Our regression model's mean-square-error was **64.6%** less than the LSTM's on average.
+- Based on our MSE samples, our regression model ourperformed LSTM at a staggering **99% confidence level**.
+- From these results, we see that **economic indicators** are a better indicator of stock market price than past trends.
 - We recommend developing a model that takes both current economic indicators and past trends as predictors for even better results.
 
 ## 💗 What did we learn from this project?
