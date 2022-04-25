@@ -18,7 +18,7 @@ Can we produce more reliable predictions using alternative models?
 ## 🧠 The Team 
 | Name              |                     Area of Focus                     |GitHub Acount|
 |---|:---:|---|
-| Tey Kai Seong |        Data Preparation, EDA, Presentation Slides, GitHub Repository        |@RowenTey|
+| Tey Kai Seong |        Data Preparation, EDA, Presentation Slides, GitHub Repository, Documentation        |@RowenTey|
 | Horstann Ho Rui Yao  |     Machine Learning, Problem Definition, Data Visualisation, Statistical Inference     |@Horstann|
 | Julian Wong Wei Sheng |       Data Preparation, EDA, Video Presentation, Analytic Visualisation        |@DarkDestiny26|
 
