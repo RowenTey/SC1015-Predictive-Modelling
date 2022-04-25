@@ -33,8 +33,8 @@ The flow of our project is as follows:
 
 ## 🤖 Models Used
 
-1. Long short-term memory (LSTM)
-2. Multiple polynomial regression 
+1. Long Short-Term Memory (LSTM)
+2. Multiple Polynomial Regression 
 
 ## 💥 Conclusion
 
