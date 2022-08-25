@@ -8,9 +8,9 @@ This is a Mini-Project for Nanyang Technological University Singapore's SC1015 m
 We would also like to thank our teaching assistant **Song Nan** for her constant guidance and encouragement throughout the project. This project would not have been possible without her valuable feedback and expertise in the field of Data Science.
 
 ## 📈 Problem Statement
-Current state of the art:
-- extremely complex predictive models (e.g. LSTM) are popularly used to predict portfolio performance
-- many financial firms and organisations rely on these models for risk management and profit maximisation
+> Current state of the art:
+> - extremely complex predictive models (e.g. LSTM) are popularly used to predict portfolio performance
+> - many financial firms and organisations rely on these models for risk management and profit maximisation
 
 Are these models really reliable? Do they have any weaknesses?
 Can we produce more reliable predictions using alternative models?
