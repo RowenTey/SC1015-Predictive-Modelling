@@ -31,7 +31,7 @@ The flow of our project is as follows:
 5. Results of our project, found in [results/](https://github.com/RowenTey/sc1015-project/tree/main/results)
 6. [outputs/](https://github.com/RowenTey/sc1015-project/tree/main/outputs) are temporary output files
 
-## 🤖 Models Used
+## 🤖 Models
 
 1. Long Short-Term Memory (LSTM)
 2. Multiple Polynomial Regression 
